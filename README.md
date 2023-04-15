@@ -14,8 +14,5 @@ To get started with our project, simply clone this repository and follow the ins
 
 We welcome contributions to our project! If you have ideas for new features or improvements, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-Thank you for your interest in our birthday celebration website project!
+### Thank you for your interest in our birthday celebration website project!
